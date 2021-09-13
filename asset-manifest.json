@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TechnocratmonkReact/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/TechnocratmonkReact/static/js/main.93395abe.chunk.js",
-    "main.js.map": "/TechnocratmonkReact/static/js/main.93395abe.chunk.js.map",
+    "main.js": "/TechnocratmonkReact/static/js/main.2379bf78.chunk.js",
+    "main.js.map": "/TechnocratmonkReact/static/js/main.2379bf78.chunk.js.map",
     "runtime-main.js": "/TechnocratmonkReact/static/js/runtime-main.3fc39578.js",
     "runtime-main.js.map": "/TechnocratmonkReact/static/js/runtime-main.3fc39578.js.map",
     "static/js/2.664d9bda.chunk.js": "/TechnocratmonkReact/static/js/2.664d9bda.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3fc39578.js",
     "static/js/2.664d9bda.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.93395abe.chunk.js"
+    "static/js/main.2379bf78.chunk.js"
   ]
 }

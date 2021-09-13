@@ -5765,3 +5765,4 @@ Inverted responsive classes
         display: none;
     }
 }
+.list-group-ul li{ width:50%; float: left;}
