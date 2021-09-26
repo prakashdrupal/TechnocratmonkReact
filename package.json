@@ -5,7 +5,7 @@
   "homepage": "http://financereact.themesflat-addons.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
-    "@testing-library/react": "^11.2.2",
+    "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.2.2",
     "history": "^5.0.0",
     "react": "^17.0.1",
